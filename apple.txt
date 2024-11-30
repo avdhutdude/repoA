@@ -1,0 +1,1 @@
+DevOps is a software engineering methodology that combines development and operations to improve an organization's ability to deliver applications and services.
